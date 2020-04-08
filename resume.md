@@ -4,15 +4,15 @@ alexz2@uw.edu
 
 http://www.linkedin.com/in/alex-zhen-483b07194/
 
-# Summary
+### Summary
 
-I have experience in a lot of communication outreach which is a something that is very important when it comes to communicating with people no matter if they are scientist, proffesionals, stakeholds, politicians etc. Also with my technical skills in GIS, it is beneficial to use these skills to help other people who do not understand clarify there there thoughts so they have a better understanding.
+<span style="color:#008000"> I have experience in a lot of communication outreach which is a something that is very important when it comes to communicating with people no matter if they are scientist, proffesionals, stakeholds, politicians etc. Also with my technical skills in GIS, it is beneficial to use these skills to help other people who do not understand clarify there there thoughts so they have a better understanding. </span>
 
 # Work Experience
 
-## El Central De La Raza (Seattle, Washington)
+### El Central De La Raza (Seattle, Washington)
 
-![](https://mynorthwest.com/wp-content/uploads/cms/8/848/84850.jpg)
+![El Centro](https://mynorthwest.com/wp-content/uploads/cms/8/848/84850.jpg)
 
 *[El Central De La Raza] is non profit located in the Beacon Hill community. Focusing on the Latino community of Washington State to build the Beloved Community through unifying all racial and economic sectors; to organize, empower, and defend the basic human rights of our most vulnerable and marginalized populations.*
 
@@ -25,9 +25,9 @@ I created and implemented plans for air & noise pollution outreach in the Beacon
 - Helped marginlized community understand the air pollution study and impacts that pollution can cause.
 
 
-## Lower Columbia Fish Recovery Board (Vancouver, Washington)
+### Lower Columbia Fish Recovery Board (Vancouver, Washington)
 
-![](https://s3.wp.wsu.edu/uploads/sites/609/2016/08/Chum-salmon-web.jpg)
+![Chum Salmon](https://s3.wp.wsu.edu/uploads/sites/609/2016/08/Chum-salmon-web.jpg)
 
 *[The Lower Columbia Fish Recovery Board] leads the coordination & implementation of locally-driven salmon recovery and watershed management plans across our region for fish who are at risk of extinction to ensure there is clean water, healthy forest and thriving rural and urban communities which can last many generations.*
 
@@ -40,9 +40,9 @@ Created spatial models using ArcGIS of the land usage types in the Lower Columbi
 - Found correlations of how land cover affects Chum and Steelhead Trout spawning grounds.
 - Map data will be used in final report for the Lower Columbia Recovery Boards decison on coordinating efforts for restoration.
 
-## Betsutenjin, Capitol Hill (Seattle, Washington)
+### Betsutenjin, Capitol Hill (Seattle, Washington)
 
-![](https://images.squarespace-cdn.com/content/v1/5e8998936da6496e27ddd95b/1586147083679-LQ4S7FO0BHE1IATTNX4Z/ke17ZwdGBToddI8pDm48kNbLqx_FIYjfhtEsCHEHzad7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UX_hdIVndeO72MD00jTnc1n42Pd5vs4VrV4yXG_EV_fzwRAeN1AbZG4OR41R6pDVyg/betsu+hk.jpg?format=750w)
+![ramen](https://images.squarespace-cdn.com/content/v1/5e8998936da6496e27ddd95b/1586147083679-LQ4S7FO0BHE1IATTNX4Z/ke17ZwdGBToddI8pDm48kNbLqx_FIYjfhtEsCHEHzad7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UX_hdIVndeO72MD00jTnc1n42Pd5vs4VrV4yXG_EV_fzwRAeN1AbZG4OR41R6pDVyg/betsu+hk.jpg?format=750w)
 
 *[Betsutenjin] is a Japanese ramen restaurant located in the heart of Capitol Hill serving authentic southern Japanese ramen.*
 
@@ -59,7 +59,11 @@ Created spatial models using ArcGIS of the land usage types in the Lower Columbi
 
 **Teacher Assistant - Market Communication and Sustainable Business** (June 2017 - August 2017)
 
-![](https://www.polisci.washington.edu/sites/polisci/files/styles/large-feature/public/images/cherryblossoms.jpg?itok=q6dxgBZc)
+![UW](https://www.polisci.washington.edu/sites/polisci/files/styles/large-feature/public/images/cherryblossoms.jpg?itok=q6dxgBZc)
+/*!
+*copy rights*
+*/
+
 
 Assisted and mentored Japanese exchange students on field trips and provided educational components related to sustainable business and communication practice methods.  Participated as a member of liaisons between the University of Washington and Keio University ensuring the exchange program was received in a friendly, positive and comfortable environment.  Provided guidance in developing the exchange student’s final presentations for their individual projects on sustainable company business practices.
 
