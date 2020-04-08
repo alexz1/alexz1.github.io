@@ -6,7 +6,7 @@ http://www.linkedin.com/in/alex-zhen-483b07194/
 
 # Summary
 
-I have experience in a lot of communication outreach which is a something that is very important when it comes to communicating with people no matter if they are scientist, proffesionals, stakeholds, politicians etc. Also with my technical skills in GIS, it is beneficial to use these skills to help other people who do not understand clarify there there thoughts so they have a better understanding. 
+I have experience in a lot of communication outreach which is a something that is very important when it comes to communicating with people no matter if they are scientist, proffesionals, stakeholds, politicians etc. Also with my technical skills in GIS, it is beneficial to use these skills to help other people who do not understand clarify there there thoughts so they have a better understanding.
 
 # Work Experience
 
