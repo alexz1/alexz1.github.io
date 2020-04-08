@@ -54,7 +54,7 @@ Created spatial models using ArcGIS of the land usage types in the Lower Columbi
 
 Assisted and mentored Japanese exchange students on field trips and provided educational components related to sustainable business and communication practice methods.  Participated as a member of liaisons between the University of Washington and Keio University ensuring the exchange program was received in a friendly, positive and comfortable environment.  Provided guidance in developing the exchange student’s final presentations for their individual projects on sustainable company business practices.
 
-**More Accomplishments**
+**Accomplishments**
 - Mentored Students to succesfully finish their final projects for the time they were here.
 - Taught students skills and methods on sustainablity when it comes to marketing.
 
