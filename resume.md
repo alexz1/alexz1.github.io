@@ -14,6 +14,7 @@ http://www.linkedin.com/in/alex-zhen-483b07194/
 
 ![El Centro](https://mynorthwest.com/wp-content/uploads/cms/8/848/84850.jpg)
 
+
 *[El Central De La Raza] is non profit located in the Beacon Hill community. Focusing on the Latino community of Washington State to build the Beloved Community through unifying all racial and economic sectors; to organize, empower, and defend the basic human rights of our most vulnerable and marginalized populations.*
 
 **Outreach Coordinator** (Janaury 2020 - Febraury 2020)
